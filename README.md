@@ -1,0 +1,3 @@
+- oi, eu sou o  @z3r0-py
+- Eu atualmente estou interessado em html, css e js
+- E eu ainda não estou muito bom nestas programações mas eu estou me esforçando
